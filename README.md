@@ -34,7 +34,7 @@ I was provided with a Figma file.
 - Flexbox
 
 ### Links
-- Solution URL: [blog-preview-card](https://annadehtiarova.github.io/results-summary/)
+- Solution URL: [results summary](https://annadehtiarova.github.io/results-summary/)
 
 ## Author
 I am a UX/UI Designer who likes to code.
