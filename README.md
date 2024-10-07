@@ -17,6 +17,10 @@ My challenge was to build out the Results summary component and get it looking a
 <img width="1707" alt="Screenshot 2024-10-07 at 18 15 09" src="https://github.com/user-attachments/assets/233d413b-2120-47a9-8b44-d169a366bf00">
 <br>
 <br>
+<img width="1701" alt="Screenshot 2024-10-07 at 18 18 08" src="https://github.com/user-attachments/assets/87161122-9cf6-46ed-901e-d12121fea20e">
+
+<br>
+<br>
 I was provided with a Figma file.
 <br>
 <br>
